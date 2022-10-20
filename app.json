@@ -31,6 +31,7 @@
     "web": {
       "favicon": "./assets/images/favicon.png"
     },
-    "description": ""
+    "description": "Desir Native is an elegant react native starter template with several screens you can use for your application.\nCompletly free and updated regularly.\nDesigned by ManuelNjiakim for free. GitHub: https://github.com/ManuelElvir/Desir-Native",
+    "githubUrl": "https://github.com/ManuelElvir/Desir-Native"
   }
 }
