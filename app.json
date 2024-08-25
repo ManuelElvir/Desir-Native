@@ -19,7 +19,8 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.manuelelvir.desirnative"
     },
     "android": {
       "adaptiveIcon": {
@@ -32,6 +33,15 @@
       "favicon": "./assets/images/favicon.png"
     },
     "description": "Desir Native is an elegant react native starter template with several screens you can use for your application.\nCompletly free and updated regularly.\nDesigned by ManuelNjiakim for free. GitHub: https://github.com/ManuelElvir/Desir-Native",
-    "githubUrl": "https://github.com/ManuelElvir/Desir-Native"
+    "githubUrl": "https://github.com/ManuelElvir/Desir-Native",
+    "extra": {
+      "eas": {
+        "projectId": "50c315e6-5cc4-411a-9c66-6ef0e486e33a"
+      }
+    },
+    "plugins": [
+      "expo-asset",
+      "expo-font"
+    ]
   }
 }
